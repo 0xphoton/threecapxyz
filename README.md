@@ -23,19 +23,18 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/threecap-dark-logo.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/threecap-light-logo.svg">
-    <img width="25" height="25" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-dark-logo.svg">
+    <img width="40" height="40" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-dark-logo.svg">
   </picture>
   </a>
   <h1 align="center">THREECAP</h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/3CAP-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/3CAP-light.svg">
-    <img width="auto" height="20" alt="Shows a black text-logo in light color mode and a white one in dark color mode." src="assets/3CAP-dark.svg">
+    <img width="auto" height="36" alt="Shows a black text-logo in light color mode and a white one in dark color mode." src="assets/3CAP-dark.svg">
   </picture>
   <h3 align="center">Web3 Knowledge Base<h3>
 
   <p align="center">
-    <hr>
     <a>IN PROGRESS....</a>
     <a href="https://github.com/0xphoton/threecapxyz"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,7 +50,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<hr>
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -82,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 With the fast pace of the web3 space, staying informed about news, events, and market movements can be overwhelming. Threecap is here to simplify that by gathering web3 information from multiple sources and summarizing it using an advanced AI. This allows users to quickly digest the most important updates in bite-sized pieces. Additionally, users can chat with the Threecap agent to dive deeper into specific events or discuss web3 topics to gain a better understanding of complex concepts.
 
@@ -147,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Say hello 👋
-- 0xphoton - [@0xphoton](https://x.com/0xphoton) 
+- Twitter - [@photonhex](https://x.com/photonhex) 
 - hello@threecap.xyz
 
 #### Project Link: [https://github.com/0xphoton/threecapxyz](https://github.com/0xphoton/threecapxyz)
