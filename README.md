@@ -23,15 +23,18 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/threecap-dark-logo.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/threecap-light-logo.svg">
-    <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-dark-logo.svg">
+    <img width="25" height="25" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-dark-logo.svg">
   </picture>
   </a>
-
-  <h3 align="center">threecap</h3>
+  <h1 align="center">THREECAP</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/3CAP-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/3CAP-light.svg">
+    <img width="auto" height="20" alt="Shows a black text-logo in light color mode and a white one in dark color mode." src="assets/3CAP-dark.svg">
+  </picture>
+  <h3 align="center">Web3 Knowledge Base<h3>
 
   <p align="center">
-    WEB3 KNOWLEDGE BASE
-    <br />
     <hr>
     <a>IN PROGRESS....</a>
     <a href="https://github.com/0xphoton/threecapxyz"><strong>Explore the docs »</strong></a>
@@ -168,18 +171,18 @@ Credits to:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/0xphoton/threecapxyz.svg?style=for-the-badge
+[contributors-url]: https://github.com/0xphoton/threecapxyz/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/0xphoton/threecapxyz.svg?style=for-the-badge
+[forks-url]: https://github.com/0xphoton/threecapxyz/network/members
+[stars-shield]: https://img.shields.io/github/stars/0xphoton/threecapxyz.svg?style=for-the-badge
+[stars-url]: https://github.com/0xphoton/threecapxyz/stargazers
+[issues-shield]: https://img.shields.io/github/issues/0xphoton/threecapxyz.svg?style=for-the-badge
+[issues-url]: https://github.com/0xphoton/threecapxyz/issues
+[license-shield]: https://img.shields.io/github/license/0xphoton/threecapxyz.svg?style=for-the-badge
+[license-url]: https://github.com/0xphoton/threecapxyz/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/X.COM-1DA1F2?style=for-the-badge&logo=x&logoColor=black
-[twitter-url]: https://x.com/in/threecapxyz
+[twitter-url]: https://x.com/threecapxyz
 [product-screenshot]: images/screenshot.png
 [python.py]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://python.org
