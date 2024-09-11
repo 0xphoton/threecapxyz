@@ -169,7 +169,7 @@ Say hello 👋
 Credits to:
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Best README Template by otheneildrew ](https://github.com/othneildrew/Best-README-Template/)
+* [Best README Template by othneildrew ](https://github.com/othneildrew/Best-README-Template/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
