@@ -7,12 +7,26 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![X.com][twitter-shield]][twitter-url]
+<div align="center">
+  <a href="https://github.com/0xphoton/threecapxyz/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/0xphoton/threecapxyz.svg?style=for-the-badge" alt="Contributors">
+  </a>
+  <a href="https://github.com/0xphoton/threecapxyz/network/members">
+    <img src="https://img.shields.io/github/forks/0xphoton/threecapxyz.svg?style=for-the-badge" alt="Forks">
+  </a>
+  <a href="https://github.com/0xphoton/threecapxyz/stargazers">
+    <img src="https://img.shields.io/github/stars/0xphoton/threecapxyz.svg?style=for-the-badge" alt="Stargazers">
+  </a>
+  <a href="https://github.com/0xphoton/threecapxyz/issues">
+    <img src="https://img.shields.io/github/issues/0xphoton/threecapxyz.svg?style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/0xphoton/threecapxyz/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/0xphoton/threecapxyz.svg?style=for-the-badge" alt="MIT License">
+  </a>
+  <a href="https://x.com/threecapxyz">
+    <img src="https://img.shields.io/badge/X.COM-1DA1F2?style=for-the-badge&logo=x&logoColor=black]" alt="X.com">
+  </a>
+</div>
 
 
 <!-- PROJECT LOGO -->
@@ -22,24 +36,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/threecap-text-logo-combined-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/threecap-text-logo-combined-light.svg.svg">
-    <img width="40" height="40" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-text-logo-combined-dark.svg">
+    <img width="auto" height="60" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-text-logo-combined-dark.svg">
   </picture>
   </a>
 
-
-  <h1 align="center">threecap<h1>
-  
-  <h3 align="center">Web3 Knowledge Base<h3>
-
+  <h3 align="center">threecap</h3>
+  <p align="center">Web3 Knowledge Base</p>
   <p align="center">
     <a>IN PROGRESS....</a>
     <a href="https://github.com/0xphoton/threecapxyz"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/0xphoton/threecapxyz">View Demo</a>
-    ·
     <a href="https://github.com/0xphoton/threecapxyz/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
     <a href="https://github.com/0xphoton/threecapxyz/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
