@@ -15,23 +15,20 @@
 [![X.com][twitter-shield]][twitter-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/0xphoton/threecapxyz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/threecap-dark-logo.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/threecap-light-logo.svg">
-    <img width="40" height="40" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-dark-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/threecap-text-logo-combined-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/threecap-text-logo-combined-light.svg.svg">
+    <img width="40" height="40" alt="Shows a black logo in light color mode and a white one in dark color mode." src="assets/threecap-text-logo-combined-dark.svg">
   </picture>
   </a>
-  <h1 align="center">THREECAP</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/3CAP-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/3CAP-light.svg">
-    <img width="auto" height="36" alt="Shows a black text-logo in light color mode and a white one in dark color mode." src="assets/3CAP-dark.svg">
-  </picture>
+
+
+  <h1 align="center">threecap<h1>
+  
   <h3 align="center">Web3 Knowledge Base<h3>
 
   <p align="center">
